@@ -1,6 +1,6 @@
 {
-  "name": "remix-light",
-  "displayName": "remix-light",
+  "name": "remix-light-new",
+  "displayName": "remix-light-new",
   "version": "0.1.4",
   "description": "A light version of the Remix Ethereum IDE as a VSCode extension",
   "author": "Ttoc",
@@ -9,7 +9,7 @@
   "icon": "logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxdavidwow/remix-light"
+    "url": "https://github.com/try-to-change/remix-light-new"
   },
   "keywords": [
     "solidity",
@@ -31,7 +31,7 @@
   ],
   "contributes": {
     "configuration": {
-      "title": "Remix Light",
+      "title": "Remix Light New",
       "properties": {
         "remix-light.useCompiler": {
           "order": 1,
